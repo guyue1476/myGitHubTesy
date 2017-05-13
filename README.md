@@ -1,2 +1,2 @@
 # myGitHubTesy
-这是一个测试github的项目123456456
+这是一个测试github的项目123
